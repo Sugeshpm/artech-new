@@ -134,3 +134,13 @@ footer{padding: 3em 0;background-color: #0D0D12; color: #fff;}
   top: 20px;
   right: 20px;
 }
+
+#formone .errorspan {
+  display: none;
+  margin-bottom: 10px;
+}
+
+#formone .erroremailspan {
+  display: none;
+  margin-bottom: 10px;
+}
