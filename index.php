@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <title>Commercial Plots In Kochi</title>
+    <title>Artech Realtors</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
     <meta name="keywords" content="">
@@ -443,7 +443,7 @@
                </div>
                 <div class="col-md-6 text-md-end col-12 col-sm-12 text-center">
                   <div class="footer-links">
-                  <div class="copy-text">&copy; <?php echo date('Y');?> Confident Group. All Rights Reserved</div>
+                  <div class="copy-text">&copy; <?php echo date('Y');?> Artech Realtors. All Rights Reserved</div>
                   </div>
                </div>
             </div>
